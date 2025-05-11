@@ -27,7 +27,7 @@ main {
 .header,
 .footer {
   width: 100%;
-  background-color: #66d8f5;
+  background-color: #ac0303;
   padding: 22px;
   display: flex;
   justify-content: space-between;
@@ -43,7 +43,7 @@ main {
 }
 
 .nav {
-  background-color: #333;
+  background-color: #010000;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -149,9 +149,13 @@ main {
   min-width: 48px;
   border-radius: 5px;
   padding: 8px;
-  background: red;
+  background: #0c00ff;
   font-size: 18px;
   color: #fff;
   text-transform: capitalize;
   cursor: pointer;
+}
+
+.schapka {
+  color: white;
 }
